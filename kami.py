@@ -18,11 +18,11 @@ import psutil
 
 loop = asyncio.get_event_loop()
 
-TOKEN = '7771921674:AAFBVmV2AzVvB7dr5JUSFYdOzwZd5wQEglw'
+TOKEN = '7625321817:AAEiERcm1jT7b1lgTn7g9cOeKI7EzjXg_wI'
 MONGO_URI = 'mongodb+srv://Kamisama:Kamisama@kamisama.m6kon.mongodb.net/'
-FORWARD_CHANNEL_ID = -1002192997432
-CHANNEL_ID = -1002192997432
-error_channel_id = -1002192997432
+FORWARD_CHANNEL_ID = -1002359696641
+CHANNEL_ID = -1002359696641
+error_channel_id = -1002359696641
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
